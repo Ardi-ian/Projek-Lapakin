@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "user_id": 3,
+    "address_id": 1,
+    "total": 305000,
+    "status": "dibayar",
+    "tanggal": "2026-10-09T09:29:04.522Z"
+  }
+]

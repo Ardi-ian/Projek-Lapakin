@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Admin Lapakin",
+    "email": "admin@lapakin.com",
+    "password": "a97c8b40409dfdcb983639605b5602f5:aa8ab514944a15992d01d3ccf822270a8c92752896f2860541d23cc20ee803cef3677e5dddd0c1b79e89295b678f653cc57ec546c22fb4c7c101f359f60c630d",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "nama": "Toko Budi",
+    "email": "penjual@lapakin.com",
+    "password": "4c6d783b09e8e9326a889bef59e1763a:3a2a02914f7dfde327fa7a60ac32d87bc9880ccfed265ec3817af50f2e8e09576c8330bda1776f5b916ba88d4105ace3df4f06974fc04a25c38fbeb55eeddcde",
+    "role": "penjual"
+  },
+  {
+    "id": 3,
+    "nama": "Siti Pembeli",
+    "email": "pembeli@lapakin.com",
+    "password": "64e8a51dccf3ba610a78f4399d1da348:a6819f815a39eff97060168922ad547acccca15128ea5dd741eb7cedad7370fd76e10ce3761548a557ec812e26c1e485c740523b234da5edcdfc6810eb621062",
+    "role": "pembeli"
+  }
+]

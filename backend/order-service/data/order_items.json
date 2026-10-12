@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "product_id": 2,
+    "seller_id": 2,
+    "nama_produk": "Jaket Hoodie",
+    "qty": 1,
+    "harga": 175000
+  },
+  {
+    "id": 2,
+    "order_id": 1,
+    "product_id": 4,
+    "seller_id": 2,
+    "nama_produk": "Power Bank 10000 mAh",
+    "qty": 1,
+    "harga": 130000
+  }
+]
